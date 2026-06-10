@@ -1,0 +1,5 @@
+your conversation log:
+you:hi my name is steve
+AI:Hi Steve! It's nice to meet you. Is there something I can help you with or would you like to chat?
+
+End of conversation
